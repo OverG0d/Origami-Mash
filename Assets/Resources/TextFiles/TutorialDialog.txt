@@ -1,0 +1,11 @@
+Welcome to the tutorial! This is a game about ship-to-ship combat. Press "ENTER" to get started.
+Try to rotate the ship left by pressing and holding 'A'.
+Now try the other direction by pressing and holding 'D'.
+Now let's fire a wave towards your own ship. This will "push" your ship and is the main form of movement in this game. Hover your mouse cursor over the red circular area surrounding your ship and left-click in that area to spawn a wave towards your ship.
+Forward waves are used to push mines and damage hostile ships. To charge a forward wave, HOLD the right-click and you will see a yellow bar increasing. As soon as you let go of the right-click, you will fire the wave in the direction that your mouse is pointing. The longer you charge a wave, the more damage it deals.
+This covers the controls for the player. Proceed to the next part of the tutorial by creating waves and moving your ship with them.
+You'll see a row of mines blocking your path. Try interacting with them in any way.
+The mines will explode on impact when anything but a wave touches it. Its explosion will heavily damage any ships within its explosion radius. Waves can push mines in the direction they travel.
+An enemy ship is ahead! You can use your outward waves to deal damage to the ship. The most damage however is done through the splash damage of mine explosions. Use your waves in any way to try and sink the enemy ship! 
+You've managed to sink your first ship! Let's try to fight a stronger ship. You'll need every advantage at your disposal. Destroy the barrel that appears and make your ship touch it to get a power-up. You'll do more damage with your waves/explosions this way!
+Nice sailing! You've defeated a stronger foe. This concludes the tutorial.

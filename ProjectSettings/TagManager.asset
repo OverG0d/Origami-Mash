@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Seamine
+  - Barrel
+  - NoWave
+  - Wall
+  - Dock
+  - Door
+  - Floor
+  - Powerup
+  - Vertex
+  - Lilypad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Player
+  - Terrain
+  - Spawn
+  - NoSpawn
+  - Pond
+  - Wave
+  - Wave2
+  - Structure
+  - Enemy
+  - ShowInMinimap
+  - Tsunami
+  - NoShowInMinimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
